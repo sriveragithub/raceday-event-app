@@ -1,1 +1,1 @@
-https://git.heroku.com/raceday-event-app.git
+https://raceday-event-app.herokuapp.com/
